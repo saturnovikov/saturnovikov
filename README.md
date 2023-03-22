@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="150"/>
+</div>
 
 <h1 align="center">Hi there 👋 I'm <a href="https://github.com/saturnovikov" target="_blank">Antonio!</a>  </h1>
 
