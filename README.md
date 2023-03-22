@@ -6,7 +6,7 @@
 <table>
    <tr>
     <td><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></td>
-    <td><a href="https://github.com/saturnovikov" target="_blank">@saturnovikov</a> </td>
+    <td><a href="https://t.me/saturnovikov" target="_blank">@saturnovikov</a> </td>
    </tr>
  </table>
  
