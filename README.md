@@ -16,7 +16,7 @@
 </div>
 <h1 align="center">Hi there 👋 I'm <a href="https://github.com/saturnovikov" target="_blank">Antonio!</a>  </h1>
 
-### :hammer_and_wrench: I know languages and Tools :
+### :hammer_and_wrench: I know languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" **alt="Django" width="50" height="50"/>
