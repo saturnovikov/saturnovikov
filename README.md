@@ -2,16 +2,22 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="150"/>
 </div>
 
+
 <h1 align="center">Hi there 👋 I'm <a href="https://github.com/saturnovikov" target="_blank">Antonio!</a>  </h1>
 
 
+
+<div id="header" align="center">
 <table>
    <tr>
     <td> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </td>
     <td> <a href="https://t.me/saturnovikov" target="_blank">@saturnovikov</a> </td>
    </tr>
  </table>
- 
+ </div>
+ <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=saturnovikov&style=flat-square&color=blue" alt=""/>
+</div>
 
  
 <!--
